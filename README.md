@@ -48,6 +48,10 @@ Input the new MM_Sales_Clean.csv file for coding work, counting the sales transi
 Import warnings and write the  action='ignore' for the Part 2 Boxplot of Total Profits DISTRIBUTION avoid the error warnings. 
 <img width="1070" alt="Boxplot of Total Profits DISTRIBUTION" src="https://user-images.githubusercontent.com/81647911/157501203-33fbf80a-feb5-4318-9fc9-6bb66b74b59e.png">
 
+Discusstion
+
+Boxplot is a standardized method for displaying data distribution based on five figures: minimum, first quartile, median, third quartile, and maximum. In the simplest Boxplot, the central rectangle spans from the first quartile to the third quartile. Segments in the rectangle show the middle value, and whiskers are displayed above and below the box, showing the positions of the minimum and maximum values. Accordingly, this boxplot image shows us the combinations with the Top 3 Total Profits by Item Type and the rectangle span are Cosmetic, Household, and Office Supplies. Segments in the rectangle show intermediate values of 0.9, 0.8, and 0.7, respectively.
+
 Then comes to the part 2 Q3 I am using the value group by and cum from a clean new MM_Sales_Clean.csv file, in order to get a bar chart displaying the result. Using the previous data result, write into a dictionary and get the top 3 Item Types from Total profit then write the solution into the Randing file. 
 
 <img width="294" alt="Item Type" src="https://user-images.githubusercontent.com/81647911/157501358-ba60c2ba-7899-4c7b-a1b6-02b8616de70a.png">
@@ -64,5 +68,3 @@ Finally, markdown the Boxplot of Total Profits DISTRIBUTION Discussion. Part 2 Q
 
 ## Part 3: Cross-Reference Statistics
 Import warnings and write the  action='ignore' for the Part 3 dictionary data to avoid the error warnings. After inputting all of the dictionary data with a header for the data of the region and then convert the dictionary data to the CSV file, create a CSV file called Countries_By_Region.csv.
-
-<img width="408" alt="Linepolt value input" src="https://user-images.githubusercontent.com/81647911/157501654-4a2b0ab4-2708-4938-86db-e898fe53bd7c.png">
