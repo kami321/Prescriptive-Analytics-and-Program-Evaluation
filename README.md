@@ -32,8 +32,6 @@ There are several columns of data for sales:
 
     Total Profit: Total Cost - Total Revenue (profit)      
 
-The rest of the columns should be self-explanatory. 
-
 ## Preliminary work 
 First and foremost, I'd want to add all of the csv, numpy, pandas, seaborn, and matplotlib.pyplot files to the project's beginning for individual coding. And I used the pd.set option script to prevent Python from performing substantial number sums with any of the floats in the scientific notation while I was working on the project.
 
