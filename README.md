@@ -62,8 +62,7 @@ Finally, markdown the Boxplot of Total Profits DISTRIBUTION Discussion.
 
 <img width="299" alt="Maximum Numbers" src="https://user-images.githubusercontent.com/81647911/157501492-713c3bef-95ed-4c3a-85bc-4d3fdfe1953a.png">
 
-### Discusstion
-
+#### Discusstion
 Boxplot is a standardized method for displaying data distribution based on five figures: minimum, first quartile, median, third quartile, and maximum. In the simplest Boxplot, the central rectangle spans from the first quartile to the third quartile. Segments in the rectangle show the middle value, and whiskers are displayed above and below the box, showing the positions of the minimum and maximum values. Accordingly, this boxplot image shows us the combinations with the Top 3 Total Profits by Item Type and the rectangle span are Cosmetic, Household, and Office Supplies. Segments in the rectangle show intermediate values of 0.9, 0.8, and 0.7, respectively.
 
 Part 2 Q4 follows the project requirements determining the sum, average, maximum of Units Sold, Unit Cost, Total Revenue, Total Cost, Total Profit then write each solution into MM_Calc.txt file individually. Lastly, using the calculation data display the Line Plot.
