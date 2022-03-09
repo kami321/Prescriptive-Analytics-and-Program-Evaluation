@@ -8,7 +8,7 @@ Prescripted repurchase rates and costs by using feature engineering and ensemble
 Author: Yinhui(Kami) Yang
 
 ## Introduction
-I have been recently hired by Marvel Mart, one of the world's leading department store chains, to be their new data analyst. I was hired because of your technical skills with Python. Immediately, they offer you a CSV file and ask you to provide specific business analytics based on the data. I am allowed required to use Python and the numPy and pandas libraries for this project. You may use any other Python libraries that you would like as well. Take a few moments to familiarize myself with the CSV file called  MM_Sales.csv  Notice the columns, the headings, the format of the data in each column.   
+I have been recently hired by Marvel Mart, one of the world's leading department store chains, to be their new data analyst. I was hired because of your technical skills with Python. Immediately, they offer you a CSV file and ask you to provide specific business analytics based on the data. I am allowed required to use Python and the numPy and pandas libraries for this project. Use any other Python libraries that you would like as well. Take a few moments to familiarize myself with the CSV file called  MM_Sales.csv  Notice the columns, the headings, the format of the data in each column.   
 
 Marvel Mart has been providing both online and offline sales of a variety of  products for many years. The provide services to countries all over the world and have stores in many countries. Marvel Mart divides their order up by an alphabetical priority labeling system: 
 
