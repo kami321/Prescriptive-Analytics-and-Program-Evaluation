@@ -1,5 +1,5 @@
 # Prescriptive Analytics and Program Evaluation
-– Client: Department Store Chains (SQL, Python) 
+Client: Marvel Mart Department Store Chains (SQL, Python) 
 
 Created demographic and financial patient profiles from 50K+ records, identifying areas for improvement 
 
